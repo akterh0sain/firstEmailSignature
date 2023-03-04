@@ -1,2 +1,2 @@
-# firstEmailSignature LiveLink> https://github.com/akterh0sain/firstEmailSignature.git
+# firstEmailSignature
 this is my first email signature that is click able
